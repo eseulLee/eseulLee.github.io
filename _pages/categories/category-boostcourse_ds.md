@@ -1,7 +1,7 @@
 ---
 title: "Boostcourse [DS course]"
 layout: category
-permalink: /categories/boostcourse_ds/
+permalink: /categories/boostcourse-ds/
 author_profile: true
 taxonomy: Boostcourse [DS course]
 sidebar:
