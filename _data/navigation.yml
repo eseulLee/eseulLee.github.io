@@ -28,9 +28,7 @@ categories:
     url: /categories/ai/
   - title: "Crawling"
     url: /categories/crawling/
-  - title: "Study"
-    children:
-      - title: "Boostcourse"    # 코스명만 구분해서 하자
-        url: /categories/boostcourse/
+  - title: "[Study] Boostcourse"
+    url: /categories/boostcourse/
 #   - title: "Data Science :)"
 #     url: /categories/datascience/
