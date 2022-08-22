@@ -22,12 +22,12 @@ categories:
     url: /categories/python/
   - title: "Algorithm"
     url: /categories/algorithm/
-#   - title: "SQL"
-#     url: /categories/sql/
-#    - title: "Machine Learning"
-#     url: /categories/machine_learning/
-#   - title: "Deep Learning"
-#     url: /categories/deep_learning/
+  - title: "SQL"
+    url: /categories/sql/
+   - title: "Machine Learning"
+    url: /categories/machine_learning/
+  - title: "Deep Learning"
+    url: /categories/deep_learning/
   - title: "Crawling"
     url: /categories/crawling/
   - title: "Boostcourse [DS course]"
