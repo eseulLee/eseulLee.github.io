@@ -30,7 +30,11 @@ categories:
     url: /categories/deep-learning/
   - title: "Crawling"
     url: /categories/crawling/
-  - title: "Boostcourse [DS course]"
-    url: /categories/boostcourse-ds/
+  - title: "Study"
+    children:
+      - title: "[Boostcourse] Data Science"
+        url: /categories/boostcourse-ds/
+      - title: "[Boostcourse] AI"
+        url: /categories/boostcourse-ai/
 #   - title: "Data Science :)"
 #     url: /categories/datascience/
