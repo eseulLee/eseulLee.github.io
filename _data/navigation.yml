@@ -24,13 +24,13 @@ categories:
     url: /categories/algorithm/
   - title: "SQL"
     url: /categories/sql/
-   - title: "Machine Learning"
+  - title: "Machine Learning"
     url: /categories/machine_learning/
   - title: "Deep Learning"
     url: /categories/deep_learning/
   - title: "Crawling"
     url: /categories/crawling/
   - title: "Boostcourse [DS course]"
-    url: /categories/boostcourse_ds/
+    url: /categories/boostcourse-ds/
 #   - title: "Data Science :)"
 #     url: /categories/datascience/
