@@ -1,9 +1,9 @@
 ---
-title: "Machine Learning"
+title: "Deep Learning"
 layout: category
-permalink: /categories/machine_learning/
+permalink: /categories/deep_learning/
 author_profile: true
-taxonomy: Machine Learning
+taxonomy: Deep Learning
 sidebar:
   nav: "categories"
 ---
