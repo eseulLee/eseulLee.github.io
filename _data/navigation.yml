@@ -22,8 +22,8 @@ categories:
     url: /categories/python/
   - title: "Algorithm"
     url: /categories/algorithm/
-  - title: "SQL"
-    url: /categories/sql/
+#   - title: "SQL"
+#     url: /categories/sql/
 #    - title: "Machine Learning"
 #     url: /categories/machine_learning/
 #   - title: "Deep Learning"
