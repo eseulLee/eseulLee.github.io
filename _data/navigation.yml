@@ -24,13 +24,11 @@ categories:
     url: /categories/algorithm/
   - title: "SQL"
     url: /categories/sql/
-  - title: "Machine Learning"
-    url: /categories/machine-learning/
-  - title: "Deep Learning"
-    url: /categories/deep-learning/
+  - title: "AI"    # ml, dl 구분 없이 ai 포괄해서 진행 포스팅시 세부 카테고리만 ml/dl 구분
+    url: /categories/ai/
   - title: "Crawling"
     url: /categories/crawling/
-  - title: "Boostcourse [DS course]"
-    url: /categories/boostcourse-ds/
+  - title: "[Study] Boostcourse"
+    url: /categories/boostcourse/
 #   - title: "Data Science :)"
 #     url: /categories/datascience/
