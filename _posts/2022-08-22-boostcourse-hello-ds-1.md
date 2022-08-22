@@ -7,7 +7,7 @@ categories:
 tags:
   - [boostcourse, data-science]
 
-permalink: /boostcourse/hello-ds-1/
+permalink: categories/boostcourse/hello-ds-1/
 
 toc: true         # 우측에 본문 목차 네비게이션 생성
 toc_sticky: true  # 본문 목차 네비게이션 고정 여부
