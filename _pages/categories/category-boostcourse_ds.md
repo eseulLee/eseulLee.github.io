@@ -1,9 +1,9 @@
 ---
-title: "Machine Learning"
+title: "Boostcourse [DS course]"
 layout: category
-permalink: /categories/machine_learning/
+permalink: /categories/boostcourse_ds/
 author_profile: true
-taxonomy: Machine Learning
+taxonomy: Boostcourse [DS course]
 sidebar:
   nav: "categories"
 ---
