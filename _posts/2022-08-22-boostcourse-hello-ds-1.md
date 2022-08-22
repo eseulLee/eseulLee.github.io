@@ -3,7 +3,7 @@ title: "[Data Science] 1. orientation"
 excerpt: "Orientation"
 
 categories:
-  - data-science
+  - [Study] boostcourse
 tags:
   - [boostcourse, data-science]
 
