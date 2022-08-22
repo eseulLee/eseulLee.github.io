@@ -1,8 +1,10 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Hi all! I'm Eseul, Lee👋🏻"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+- dltmf3401@gmail.com
+- http://github.com/eseulLee
+
