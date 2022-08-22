@@ -1,9 +1,9 @@
 ---
-title: "Machine Learning"
+title: "Crawling"
 layout: category
-permalink: /categories/machine_learning/
+permalink: /categories/crawling/
 author_profile: true
-taxonomy: Machine Learning
+taxonomy: Crawling
 sidebar:
   nav: "categories"
 ---
