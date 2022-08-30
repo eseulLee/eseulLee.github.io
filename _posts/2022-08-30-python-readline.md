@@ -1,6 +1,6 @@
 ---
 title: "[Python 문법] 입력 받기(sys.stdin.readline)"
-excerpt: "여러 줄 입력받을 때 써야하는 readline() 정리"
+excerpt: "여러 줄 입력받을 때 써야하는 sys.stdin.readline() 정리"
 
 categories:
   - Python
