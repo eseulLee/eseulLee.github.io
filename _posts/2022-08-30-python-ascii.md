@@ -17,8 +17,8 @@ last_modified_at: 2022-08-30
 ---
 
 ## 🚀 아스키코드(ascii)
-아스키(ASCII)는 미국 정보 교환 표준 부호(American Standard Code for Information Interchange)로, 말 그대로 정보를 교환하는 부호입니다.  
-아스키 코드는 영문알파벳과 기호에 적합한 문자 인코딩으로 0부터 127까지 총 128개의 부호가 사용됩니다.  
+아스키(ASCII)는 미국 정보 교환 표준 부호(American Standard Code for Information Interchange)로, 말 그대로 정보를 교환하는 부호입니다.
+영문알파벳과 기호에 적합한 문자 인코딩으로 0부터 127까지 총 128개의 부호가 사용됩니다.  
 아래는 나무위키에서 가져온 아스키코드표 입니다.  
 ![아스키코드표](/assets/images/posts_img/ascii/ascii_code_table.png)  
 출처: [나무위키](https://namu.wiki/w/%EC%95%84%EC%8A%A4%ED%82%A4%20%EC%BD%94%EB%93%9C)
