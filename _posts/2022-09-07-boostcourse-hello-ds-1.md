@@ -1,6 +1,6 @@
 ---
-title: "[Data Science] Hello, Data Science! -1"
-excerpt: "[Boostcourse_데이터홀릭] Chapter.01-"
+title: "[Data Science] Hello, Data Science! - 1"
+excerpt: "#Boostcourse #데이터홀릭"
 
 categories:
   - Boostcourse
