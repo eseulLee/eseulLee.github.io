@@ -3,7 +3,7 @@ title: "[Data Science] Hello, Data Science! - 1"
 excerpt: "#Boostcourse #데이터홀릭"
 
 categories:
-  - Python
+  - Boostcourse
 tags:
   - [Boostcourse, Data-science]
 
@@ -21,4 +21,3 @@ last_modified_at: 2022-09-07 # 최종 수정 날짜
 *- Wikipedia*
 
 ## 💡 데이터 사이언스 벤 다이어그램
-<!-- ![Venn diagram of DS](/assets/images/posts_img/hello-ds-1/img1.png) -->
