@@ -1,5 +1,5 @@
 ---
-title: "[Data Science] Hello, Data Science! - 1"
+title: "[Data Science] test"
 excerpt: "#Boostcourse #데이터홀릭"
 
 categories:
