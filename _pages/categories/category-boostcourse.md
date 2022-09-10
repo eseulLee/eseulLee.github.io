@@ -3,7 +3,7 @@ title: "[Study] Boostcourse"
 layout: category
 permalink: /categories/boostcourse/
 author_profile: true
-taxonomy: Boostcourse
+taxonomy: boostcourse
 sidebar:
   nav: "categories"
 ---
