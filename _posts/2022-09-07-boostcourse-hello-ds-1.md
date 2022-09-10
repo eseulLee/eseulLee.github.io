@@ -5,7 +5,7 @@ excerpt: "#Boostcourse #데이터홀릭"
 categories:
   - boostcourse
 tags:
-  - [Boostcourse, Data-science]
+  - [boostcourse, data-science]
 
 permalink: /boostcourse/hello-ds-1/
 
