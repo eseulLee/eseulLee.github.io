@@ -3,7 +3,7 @@ title: "[Data Science] Hello, Data Science! - 1"
 excerpt: "#Boostcourse #데이터홀릭"
 
 categories:
-  - Boostcourse
+  - boostcourse
 tags:
   - [Boostcourse, Data-science]
 
