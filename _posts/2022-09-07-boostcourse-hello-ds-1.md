@@ -3,9 +3,9 @@ title: "[Data Science] Hello, Data Science! - 1"
 excerpt: "#Boostcourse #데이터홀릭"
 
 categories:
-  - boostcourse
+  - Boostcourse
 tags:
-  - [boostcourse, data-science]
+  - [Boostcourse, Data-science]
 
 permalink: /boostcourse/hello-ds-1/
 
