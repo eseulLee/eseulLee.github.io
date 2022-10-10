@@ -20,7 +20,7 @@ last_modified_at: 2022-10-10
 
 ## 🚀 list 자체 정렬
 ### 💡 list.sort()
-1. (default) 숫자형은 **오름차순**, 문자열은 **사전순**
+- (default) 숫자형은 **오름차순**, 문자열은 **사전순**
 
 ```python
 a = [6, 2, 4, 1]
@@ -32,7 +32,7 @@ print(a, b)
 >>> [1, 2, 4, 6] ['apple', 'banana', 'carrot']
 ```
 
-2. (option) reverse=True : **내림차순** 정렬
+- (option) reverse=True : **내림차순** 정렬
 
 ```python
 c = [1, 10, 5, 7, 6]
@@ -42,7 +42,7 @@ print(c)
 >>> [10, 7, 6, 5, 1]
 ```
 
-3. (option) key= : key 옵션을 통해 정렬 기준을 정할 수 있음
+- (option) key= : key 옵션을 통해 정렬 기준을 정할 수 있음
 
 ```python
 d = ['pizza', 'chicken', 'coke']
