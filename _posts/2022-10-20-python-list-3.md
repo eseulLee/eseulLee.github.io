@@ -1,103 +1,73 @@
 ---
-title: "[python] List 활용하기(2)- 리스트 정렬"
-excerpt: "list 정렬하기: sort, reverse"
+title: "[python] List 활용하기(3)- 기타 내장함수"
+excerpt: "list 내장함수"
 
 categories:
   - Python
 tags:
   - [Python]
 
-permalink: /python/list-2/
+permalink: /python/list-3/
 
 toc: true
 toc_sticky: true
 
-date: 2022-10-10
-last_modified_at: 2022-10-10
+date: 2022-10-20
+last_modified_at: 2022-10-20
 ---
 
-리스트는 다른 자료형을 담을 수 있지만, sort 함수를 사용하기 위해서는 리스트 내부에 **같은** 자료형이 들어있어야 함
 
-## 🚀 list 자체 정렬
-### 💡 list.sort()
-- (default) 숫자형은 **오름차순**, 문자열은 **사전순**
+## 🚀 index()
+특정 원소의 index number 리턴  
 
 ```python
-a = [6, 2, 4, 1]
-b = ['carrot', 'apple', 'banana']
-a.sort()
-b.sort()
-print(a, b)
+a = list(range(1, 11))   # 1~10으로 구성된 리스트 생성
+print(a.index(5))
 
->>> [1, 2, 4, 6] ['apple', 'banana', 'carrot']
+>>> 4
 ```
 
-- (option) reverse=True : **내림차순** 정렬
+## 🚀 최대/최소 찾기
+### 💡 최대(max)
 
 ```python
-c = [1, 10, 5, 7, 6]
-c.sort(reverse=True)
-print(c)
+a = list(range(1, 11))
+print(max(a))
 
->>> [10, 7, 6, 5, 1]
+>>> 10
 ```
 
-- (option) key= : key 옵션을 통해 정렬 기준을 정할 수 있음
+### 💡 최소(min)
 
 ```python
-d = ['pizza', 'chicken', 'coke']
-d.sort(key=len)
-print(d)
+a = list(range(1, 11))
+print(min(a))
 
->>> ['coke', 'pizza', 'chicken']
+>>> 1
 ```
 
-### 💡 list.reverse()
-- 리스트를 거꾸로 뒤집음
-- Not desc 정렬 주의
+## 🚀 리스트 무작위로 섞기
 
 ```python
-e = [2, 15, 8, 7, 9]
-e.reverse()
-print(e)
+import random as r
 
->>> [9, 7, 8, 15, 2]
+a = list(range(1, 11))
+print(a)
+r.shuffle(a)
+print(a)
+
+>>> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+>>> [1, 6, 4, 10, 8, 7, 2, 3, 5, 9]
 ```
+[리스트 정렬 관련 포스트](/_posts/2022-10-10-list-2.md)
 
-## 🚀 list의 정렬된 결과만 반환
-- list 자체를 변형하지 않음
-
-### 💡 sorted()
-- list의 원소를 순서대로 정렬하여 반환
+## 🚀 clear()
+리스트 내 원소 모두 삭제
 
 ```python
-f = [1, 10, 3, 6, 8]
-g = sorted(f)
-print(f, g)
+a = list(range(1, 11))
+a.clear()
+print(a)
 
->>> [1, 10, 3, 6, 8] [1, 3, 6, 8, 10]
-```
-
-### 💡 reversed()
-- 거꾸로 뒤집기(정렬의 역순이 아님 주의)
-- **iterable한 객체**를 반환하므로 확인하기 위해서는 **list로 변형** 필요함
-
-```python
-h = [1, 11, 2, 5, 6]
-i = reversed(h)
-print(h)
-
->>> [1, 11, 2, 5, 6]   # 원래 리스트의 원소 순서 그대로
-```
-
-```python
-print(i)
-
->>> <list_reverseiterator object at 0x7f79e5b142d0>
-```
-```python
-i_ = list(i)   # list로 형변환
-print(i_)
-
->>> [6, 5, 2, 11, 1]
+>>> []
 ```
