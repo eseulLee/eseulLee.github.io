@@ -1,6 +1,6 @@
 ---
 title: "[python] List 활용하기(3)- 기타 내장함수"
-excerpt: "list 내장함수"
+excerpt: "list의 내장함수에 대해 알아보자!"
 
 categories:
   - Python
@@ -59,7 +59,7 @@ print(a)
 >>> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 >>> [1, 6, 4, 10, 8, 7, 2, 3, 5, 9]
 ```
-[리스트 정렬 관련 포스트](/_posts/2022-10-10-list-2.md)
+[리스트 정렬 관련 포스트](/python/list-2/)
 
 ## 🚀 clear()
 리스트 내 원소 모두 삭제
