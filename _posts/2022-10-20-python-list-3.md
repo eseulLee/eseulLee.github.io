@@ -71,3 +71,37 @@ print(a)
 
 >>> []
 ```
+
+
+## 🚀 all/any
+### 💡 all
+
+모든 경우가 True인 경우 True 리턴  
+하나라도 False가 나오면 False
+
+```python
+a = [11, 22, 33, 44, 55, 66]
+
+if all(50 > x for x in a):
+    print("YES")
+else:
+    print("NO")
+    
+>>> NO
+```
+
+### 💡 any
+하나라도 True인 경우 True 리턴  
+모두 False여야 False 리턴
+
+```python
+a = [11, 22, 33, 44, 55, 66]
+
+if any(50 > x for x in a):
+    print("YES")
+else:
+    print("NO")
+    
+>>> YES
+```
+
