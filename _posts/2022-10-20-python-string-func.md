@@ -29,7 +29,7 @@ print(msg)
 >>> IT IS TIME
 >>> It is Time
 ```
-대문자로 변환된 문자열을 새로운 변수로 정의해야 함
+대문자로 변환된 문자열을 새로운 변수로 정의해야 함  
 
 ```python
 tmp = msg.upper()
