@@ -25,7 +25,7 @@ last_modified_at: 2023-01-10
 | \n | 개행 |
 | \t | 탭 |
 | \\" | 큰따옴표 |
-| \\' |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 작은따옴표 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+| \\' |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 작은따옴표 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 | \\\ | 문자 \\ |
 
 ```python
