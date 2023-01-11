@@ -20,7 +20,7 @@ last_modified_at: 2023-01-10
 
 문자열 안에 담기 힘든 특수한 문자의 경우 \문자 뒤에 특별한 기호로 표시하여 문자로 구분
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확장열&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;설명&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&emsp;&emsp;확장열&emsp;&emsp;|&emsp;&emsp;설명&emsp;&emsp;|
 |:-----:|:-----:|
 | \n | 개행 |
 | \t | 탭 |
