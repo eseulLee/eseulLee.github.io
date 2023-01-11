@@ -20,12 +20,12 @@ last_modified_at: 2023-01-10
 
 문자열 안에 담기 힘든 특수한 문자의 경우 \문자 뒤에 특별한 기호로 표시하여 문자로 구분
 
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;확장열&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|설명|
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;확장열&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|설명|
 |:-----:|:-----:|
 | \n | 개행 |
 | \t | 탭 |
 | \\" | 큰따옴표 |
-| \\' |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 작은따옴표 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+| \\' |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 작은따옴표 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 | \\\ | 문자 \\ |
 
 ```python
