@@ -1,6 +1,6 @@
 ---
-title: "[python] 문자열과 내장함수"
-excerpt: "python의 문자열(string)과 내장함수"
+title: "[python] 문자열과 내장함수/메서드 (1)"
+excerpt: "python의 문자열(string)과 내장함수/메서드"
 
 categories:
   - Python
