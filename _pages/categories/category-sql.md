@@ -3,7 +3,7 @@ title: "SQL"
 layout: category
 permalink: /categories/sql/
 author_profile: true
-taxonomy: SQL
+taxonomy: sql
 sidebar:
   nav: "categories"
 ---
