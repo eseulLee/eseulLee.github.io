@@ -1,5 +1,5 @@
 ---
-title: "[python] 7.함수"
+title: "[python] 함수, 인수, 변수"
 excerpt: "#파이썬정복 #한빛미디어 함수와 인수, 인수의 형식, 변수의 범위"
 
 categories:
@@ -20,7 +20,7 @@ last_modified_at: 2023-01-12
 
 ```python
 def 함수명(인수 목록):
-   본체
+    본체
 ```
 
 n까지의 합을 구하는 반복되는 코드를 함수로 구현
