@@ -7,7 +7,7 @@ categories:
 tags:
   - [Python]
 
-permalink: /python/string-func/
+permalink: /python/string-func-1/
 
 toc: true
 toc_sticky: true
