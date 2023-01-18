@@ -1,6 +1,6 @@
 ---
 title: "[python] 문자열 포맷팅"
-excerpt: "python의 문자열(string) 포맷팅 #파이썬정복 #한빛미디어"
+excerpt: "#파이썬정복 #한빛미디어 python의 문자열(string) 포맷팅"
 
 categories:
   - Python
