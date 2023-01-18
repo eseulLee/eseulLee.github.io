@@ -239,7 +239,7 @@ print("이름:{0:^10s}, 나이:{1:>5d}, 키:{2:<8.2f}".format(name, age, height)
 
 정렬 문자 이전에 채움 문자 지정시, 공백 대신 채움 문자 출력 가능
 
-```pyhon
+```python
 name = "Han"
 age = 15
 height = 158.7
