@@ -1,6 +1,6 @@
 ---
 title: "[python] 확장열과 긴 문자열"
-excerpt: "python의 문자열(string) 중 확장열과 긴 문자열 #파이썬정복 #한빛미디어"
+excerpt: "#파이썬정복 #한빛미디어 python의 문자열(string) 중 확장열과 긴 문자열 "
 
 categories:
   - Python
