@@ -25,8 +25,8 @@ categories:
     url: /categories/algorithm/
   - title: "SQL"
     url: /categories/sql/
-   - title: "Data Analysis"
-     url: /categories/da/
+  - title: "Data Analysis"
+    url: /categories/da/
 
 #   - title: "AI"    # ml, dl 구분 없이 ai 포괄해서 진행 포스팅시 세부 카테고리만 ml/dl 구분
 #     url: /categories/ai/
