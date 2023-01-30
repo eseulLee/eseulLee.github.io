@@ -7,7 +7,7 @@ categories:
 tags:
   - [data_analysis]
 
-permalink: /data_analysis/thisisda-1/
+permalink: /da/thisisda-1/
 
 toc: true
 toc_sticky: true
