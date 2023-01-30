@@ -1,9 +1,9 @@
 ---
 title: "Data Analysis"
 layout: category
-permalink: /categories/data_analysis/
+permalink: /categories/da/
 author_profile: true
-taxonomy: data_analysis
+taxonomy: da
 sidebar:
   nav: "categories"
 ---

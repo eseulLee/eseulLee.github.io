@@ -3,7 +3,7 @@ title: "[DA_01] 탐색적 데이터 분석"
 excerpt: "#이것이_데이터_분석이다_with_Python #독학"
 
 categories:
-  - data_analysis
+  - da
 tags:
   - [data_analysis]
 
