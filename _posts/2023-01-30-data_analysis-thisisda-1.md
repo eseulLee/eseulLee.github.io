@@ -3,11 +3,11 @@ title: "[DA_01] 탐색적 데이터 분석"
 excerpt: "#이것이_데이터_분석이다_with_Python #독학"
 
 categories:
-  - data-analysis
+  - data_analysis
 tags:
-  - [data-analysis]
+  - [data_analysis]
 
-permalink: /data-analysis/thisisda-1/
+permalink: /data_analysis/thisisda-1/
 
 toc: true
 toc_sticky: true
@@ -16,7 +16,7 @@ date: 2023-01-30
 last_modified_at: 2023-01-30
 ---
 
-**🧐 탐색적 데이터 분석 (EDA, Expolatory Data Anlysis)**  
+**🧐 탐색적 데이터 분석 (EDA, Expolatory Data Analysis)**  
 데이터의 정보를 파악하며 문제 해결에 필요한 힌트를 분석하는 과정
 
 <br>
