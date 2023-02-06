@@ -186,7 +186,7 @@ last_modified_at: 2023-02-06
 |'iso-week'|	1-52, 주의 시작은 항상 월요일|
 |'iso-weekday'|	1-7, 주의 시작은 항상 월요일|
 
-https://help.tableau.com/current/pro/desktop/ko-kr/functions_functions_date.htm#datepart-%EA%B0%92
+<https://help.tableau.com/current/pro/desktop/ko-kr/functions_functions_date.htm#datepart-%EA%B0%92>
 
 
 
