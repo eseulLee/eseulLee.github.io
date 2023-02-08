@@ -16,6 +16,7 @@ date: 2023-02-07
 last_modified_at: 2023-02-07
 ---
 
+##  ✏️ 3일차
 
 > 📖 3일차 학습 안내  
 > - **매개 변수 활용** : 내가 원하는 기준으로 측정값을 변경하며 커피 선택
@@ -106,7 +107,7 @@ last_modified_at: 2023-02-07
 <summary>최종결과 🌈</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_2_7.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_7.png){: .align-center}  
 
 </div>
 </details>
@@ -151,7 +152,7 @@ last_modified_at: 2023-02-07
 <summary>최종결과 🌈</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_2_10.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_10.png){: .align-center}  
 
 </div>
 </details>
@@ -160,11 +161,11 @@ last_modified_at: 2023-02-07
 
 1. X축 선택, Y축 선택 매개 변수 생성
 
-   ![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_2_8.png){: .align-center}
+   ![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_8.png){: .align-center}
 
 2. 1의 각각의 매개 변수를 사용할 계산된 필드 X축, Y축 생성
 
-   ![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_2_9.png){: .align-center}
+   ![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_9.png){: .align-center}
 
 3. 워크시트 작성
    - X축, Y축을 각각 열 선반, 행 선반에 추가 (둘 다 집계 형태 **평균**으로 변경)
@@ -185,7 +186,7 @@ last_modified_at: 2023-02-07
 <summary>최종결과 🌈</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_2_12.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_12.png){: .align-center}  
 
 </div>
 </details>
@@ -199,7 +200,7 @@ last_modified_at: 2023-02-07
    - 대상 하이라이트는 선택한 필드에서 "**카테고리**"만 선택
      - 2번 과제에서 '카테고리'를 시트에 추가한 이유!
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_2_11.png){: .align-center}
+![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_11.png){: .align-center}
 
 
 
