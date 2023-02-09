@@ -54,7 +54,7 @@ last_modified_at: 2023-02-07
 - 좌측 하단에 매개 변수 생성된 후 마우스 오른쪽 클릭하여 `매개 변수 표시` 선택
   - 우측 필터 표시 탭에 매개 변수 표시
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_1.png){: .align-center}
+![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_1.png){: .align-center}
 
 <br>
 
@@ -71,7 +71,7 @@ last_modified_at: 2023-02-07
    > **집계 수준이 서로 다른 경우**에는 계산 필드 내에서 측정값 별 집계 함수를 다르게 적용  
    > 👉 아래의 그림처럼 '집계'로 명시되어 따로 추가적인 집계없이 적용
           
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_2.png){: .align-center}
+![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_2.png){: .align-center}
  
 <br>
 
@@ -80,13 +80,13 @@ last_modified_at: 2023-02-07
 
 대시보드 > 동작 클릭시 아래와 같은 창이 뜨고, 필터, 하이라이트 등의 동작을 추가할 수 있음
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_3.png){: .align-center}
+![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_3.png){: .align-center}
 
 대시보드에서 단일 뷰 선택시 옵션 중 하나인 '필터로 사용'이 해당 기능을 적용한 경우에 해당  
 - 해당 옵션 적용 시 대시보드 > 동작 에 '필터' 동작이 생성
 - 동작 편집(또는 추가)시 원본 시트, 동작 실행 조건, 대상 시트, 필터 등을 적용하여 동작 편집/생성
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_4.png){: .align-center}
+![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_4.png){: .align-center}
 
 👉 2주차 때 좀 더 자세히 다룰 예정!
 
@@ -107,7 +107,7 @@ last_modified_at: 2023-02-07
 <summary>최종결과 🌈</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_7.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_7.png){: .align-center}  
 
 </div>
 </details>
@@ -121,7 +121,7 @@ last_modified_at: 2023-02-07
       - 값 목록 : 칼로리, 카페인, 당류 
 2. "**선택한 측정값**" 계산된 필드 생성
 
-   ![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_5.png){: .align-center}
+   ![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_5.png){: .align-center}
 
 3. "**카페인 함유량 선택**" 매개 변수 생성
       - 이름 : 카페인 함유량 선택
@@ -131,7 +131,7 @@ last_modified_at: 2023-02-07
 
 4. "**선택한 카페인**" 계산된 필드 생성  
 
-   ![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_6.png){: .align-center}
+   ![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_6.png){: .align-center}
 
 5. **카테고리** - 열 선반, **선택한 측정값** - 행 선반 추가
    - **선택한 측정값**의 집계 형태 **평균**으로 변경
@@ -152,7 +152,7 @@ last_modified_at: 2023-02-07
 <summary>최종결과 🌈</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_10.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_10.png){: .align-center}  
 
 </div>
 </details>
@@ -161,11 +161,11 @@ last_modified_at: 2023-02-07
 
 1. X축 선택, Y축 선택 매개 변수 생성
 
-   ![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_8.png){: .align-center}
+   ![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_8.png){: .align-center}
 
 2. 1의 각각의 매개 변수를 사용할 계산된 필드 X축, Y축 생성
 
-   ![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_9.png){: .align-center}
+   ![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_9.png){: .align-center}
 
 3. 워크시트 작성
    - X축, Y축을 각각 열 선반, 행 선반에 추가 (둘 다 집계 형태 **평균**으로 변경)
@@ -186,7 +186,7 @@ last_modified_at: 2023-02-07
 <summary>최종결과 🌈</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_12.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_12.png){: .align-center}  
 
 </div>
 </details>
@@ -200,7 +200,7 @@ last_modified_at: 2023-02-07
    - 대상 하이라이트는 선택한 필드에서 "**카테고리**"만 선택
      - 2번 과제에서 '카테고리'를 시트에 추가한 이유!
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230207_tableau_bootcamp_17_3_11.png){: .align-center}
+![image](/assets/images/posts_img/tableau_bootcamp/day3/20230207_tableau_bootcamp_17_3_11.png){: .align-center}
 
 
 

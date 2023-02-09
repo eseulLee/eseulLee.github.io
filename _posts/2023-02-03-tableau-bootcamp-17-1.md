@@ -78,7 +78,7 @@ last_modified_at: 2023-02-03
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230203_tableau_bootcamp_17_1_1.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day1/20230203_tableau_bootcamp_17_1_1.png){: .align-center}  
 
 </div>
 </details>
@@ -96,7 +96,7 @@ last_modified_at: 2023-02-03
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230203_tableau_bootcamp_17_1_2.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day1/20230203_tableau_bootcamp_17_1_2.png){: .align-center}  
 
 </div>
 </details>
@@ -115,7 +115,7 @@ last_modified_at: 2023-02-03
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230203_tableau_bootcamp_17_1_3.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day1/20230203_tableau_bootcamp_17_1_3.png){: .align-center}  
 
 </div>
 </details>
@@ -124,7 +124,7 @@ last_modified_at: 2023-02-03
 
 ### 4️⃣ 당분 함유량과 칼로리 상관관계
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230203_tableau_bootcamp_17_1_4.jpg){: .align-center}
+![image](/assets/images/posts_img/tableau_bootcamp/day1/20230203_tableau_bootcamp_17_1_4.jpg){: .align-center}
 
 1. 메뉴명 수준으로 당류와 칼로리 살펴보기 위해 메뉴명을 마크 선반의 **세부 정보**에 가져다 놓기
    - **시각화의 집계 기준이 전체에서 메뉴명 수준으로 변경**
@@ -137,7 +137,7 @@ last_modified_at: 2023-02-03
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230203_tableau_bootcamp_17_1_5.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day1/20230203_tableau_bootcamp_17_1_5.png){: .align-center}  
 
 - 당류(g)가 높을수록 칼로리(Kcal)가 높음
 - 비슷한 당류가 들어가도 칼로리가 메뉴에 따라 달라짐
@@ -159,7 +159,7 @@ last_modified_at: 2023-02-03
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230203_tableau_bootcamp_17_1_6.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day1/20230203_tableau_bootcamp_17_1_6.png){: .align-center}  
 
 
 </div>
@@ -175,7 +175,7 @@ last_modified_at: 2023-02-03
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230203_tableau_bootcamp_17_1_7.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day1/20230203_tableau_bootcamp_17_1_7.png){: .align-center}  
 
 </div>
 </details>
@@ -190,7 +190,7 @@ last_modified_at: 2023-02-03
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230203_tableau_bootcamp_17_1_8.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day1/20230203_tableau_bootcamp_17_1_8.png){: .align-center}  
 
 </div>
 </details>

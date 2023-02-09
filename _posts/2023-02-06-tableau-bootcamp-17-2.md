@@ -42,7 +42,7 @@ last_modified_at: 2023-02-06
 - 행 수준 계산식은 행수준끼리, 집계 수준 계산식은 집계 수준 계산식끼리 사용해야 함
 
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230206_tableau_bootcamp_17_2_1.png){: .align-center}
+![image](/assets/images/posts_img/tableau_bootcamp/day2/20230206_tableau_bootcamp_17_2_1.png){: .align-center}
 
 <br>
 
@@ -53,7 +53,7 @@ last_modified_at: 2023-02-06
 - <span style="color:orange">참고)</span> [Tableau의 함수](https://help.tableau.com/current/pro/desktop/ko-kr/functions.htm)
 
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230206_tableau_bootcamp_17_2_2.png){: .align-center}
+![image](/assets/images/posts_img/tableau_bootcamp/day2/20230206_tableau_bootcamp_17_2_2.png){: .align-center}
 
 
 
@@ -93,7 +93,7 @@ last_modified_at: 2023-02-06
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230206_tableau_bootcamp_17_2_3.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day2/20230206_tableau_bootcamp_17_2_3.png){: .align-center}  
 
 </div>
 </details>
@@ -118,7 +118,7 @@ last_modified_at: 2023-02-06
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230206_tableau_bootcamp_17_2_4.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day2/20230206_tableau_bootcamp_17_2_4.png){: .align-center}  
 
 </div>
 </details>
@@ -152,7 +152,7 @@ last_modified_at: 2023-02-06
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230206_tableau_bootcamp_17_2_5.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day2/20230206_tableau_bootcamp_17_2_5.png){: .align-center}  
 
 </div>
 </details>
@@ -195,7 +195,7 @@ last_modified_at: 2023-02-06
 <summary>최종결과</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/20230206_tableau_bootcamp_17_2_6.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day2/20230206_tableau_bootcamp_17_2_6.png){: .align-center}  
 
 </div>
 </details>
