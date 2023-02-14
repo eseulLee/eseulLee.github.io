@@ -1,5 +1,5 @@
 ---
-title: "[Tableau] 신병훈련소 17기 4일차"
+title: "[Tableau] 태블로 신병훈련소 17기 4일차"
 excerpt: "#Tableau #신병훈련소 #데이터_시각화 #히트맵 #테이블계산 #시간데이터분석"
 
 categories:
