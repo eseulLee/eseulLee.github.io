@@ -211,11 +211,11 @@ last_modified_at: 2023-02-09
 1. 계산된 필드 **Arrival, Departure** 생성
    - **MAKEPOINT 함수** 이용하여 위·경도 좌표로 출발지(Departure), 도착지(Arrival) 위치 점으로 나타내기
 
-![image](/assets/images/posts_img/tableau_bootcamp/day5/20230209_tableau_bootcamp_17_5_10.png){: .align-center}
+    ![image](/assets/images/posts_img/tableau_bootcamp/day5/20230209_tableau_bootcamp_17_5_10.png){: .align-center}
 
 2. **MAKELINE 함수**로 1에서 만든 'Arrival', 'Departure'를 경로로 잇는 필드 '**Flight Path**' 생성
 
-![image](/assets/images/posts_img/tableau_bootcamp/day5/20230209_tableau_bootcamp_17_5_11.png){: .align-center}
+    ![image](/assets/images/posts_img/tableau_bootcamp/day5/20230209_tableau_bootcamp_17_5_11.png){: .align-center}
 
 3. 2에서 만든 'Flight Path' 필드를 더블 클릭하여 시트에 표현(시트 중앙으로 Drag & Drop 해도 됨)
 4. 각 Flight Path별 평균 Passenger 수를 색상으로 표현
@@ -255,15 +255,15 @@ last_modified_at: 2023-02-09
 4. “**시군구**"에서 마우스 오른쪽 버튼을 클릭하여 "**필터 표시**" 선택 후, “시군구"필터 옵션에서 "**단일 값(목록)**" 선택 
     - 시군구 필터에 해당 시도 내에 있는 시군구만 나타내기 위해 '**관련된 값만**' 선택 
 5. 거리 선택을 위한 매개 변수 및 계산식 만들기
-    1) **매개 변수**
-        - 이름 : 거리 선택
-        - 데이터 유형 : 정수
-        - 현재 값 : 150 
-        - 허용 가능한 값 : 범위
-        - 최소값 : 50 , 최대값 : 500 , 단계 크기 : 50
- 
-    2) 매개 변수를 이용한 계산식
-        - 이름 : 반경 계산
+    1. **매개 변수**
+       - 이름 : 거리 선택
+       - 데이터 유형 : 정수
+       - 현재 값 : 150 
+       - 허용 가능한 값 : 범위
+       - 최소값 : 50 , 최대값 : 500 , 단계 크기 : 50
+    2. 매개 변수를 이용한 계산식
+       - 이름 : 반경 계산
+       
        ```
         BUFFER(MAKEPOINT([Latitude], [Longitude]), [거리 선택], 'm')
        ```
@@ -272,8 +272,8 @@ last_modified_at: 2023-02-09
 7. 마크 유형을 "**맵**"으로 변경 후 "**반경 계산**" 필드를 마크 선반의 **세부 정보**에 Drag & Drop
 8. "**상표**" 필드 마크 선반의 **색상**에 Drag & Drop (상표별 색상 차이)
 9. 거리 뷰를 보기 위한 맵 옵션 변경
-      1) 맵 > 배경 맵 > `거리` 선택
-      2) 맵 > `백 그라운드 레이어` 선택 > 투명도 30%로 조정
+    1. 맵 > 배경 맵 > `거리` 선택
+    2. 맵 > `백 그라운드 레이어` 선택 > 투명도 30%로 조정
 
 <br>
 
