@@ -260,7 +260,7 @@ last_modified_at: 2023-02-15
 <summary>최종결과 🌈</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/day8/20230215_tableau_bootcamp_17_8_과제_2.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day8/20230215_tableau_bootcamp_17_8_13.png){: .align-center}  
 
 </div>
 </details>
