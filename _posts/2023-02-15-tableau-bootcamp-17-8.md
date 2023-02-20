@@ -35,14 +35,14 @@ last_modified_at: 2023-02-15
 
 #### 👀 집합 생성 방법 
 
-- 동적 집합: 조건이나 상황에 따라 바뀔 수 있는 형태
+1. 동적 집합: 조건이나 상황에 따라 바뀔 수 있는 형태
   1. 필드 기준: 필드 자체를 조건으로 사용
 
-    ![image](/assets/images/posts_img/tableau_bootcamp/day8/20230215_tableau_bootcamp_17_8_4.png){: .align-center}
+       ![image](/assets/images/posts_img/tableau_bootcamp/day8/20230215_tableau_bootcamp_17_8_4.png){: .align-center}
 
   2. 조건 > `수식 기준` 일 때: 수식에는 집합 생성 대상 차원을 포함하거나 집계 형태여야 하며, 결과는 참/거짓(BOOLEAN) 형태여야 함(IN/OUT)
   
-    ![image](/assets/images/posts_img/tableau_bootcamp/day8/20230215_tableau_bootcamp_17_8_1.png){: .align-center}
+       ![image](/assets/images/posts_img/tableau_bootcamp/day8/20230215_tableau_bootcamp_17_8_1.png){: .align-center}
 
   3. 집합 간 연산
      - 2015년도, 2016년도 구매고객을 각각의 집합으로 만든 후 두 집합을 하나로 합친 "**2015&2016 구매고객**' 집합 생성
@@ -54,7 +54,7 @@ last_modified_at: 2023-02-15
        ![image](/assets/images/posts_img/tableau_bootcamp/day8/20230215_tableau_bootcamp_17_8_3.png){: .align-center}
        - 2015, 2016년도 모두 구매를 한 고객은 다른 연도에 구매했을 확률이 더 높기 때문에 전체 매출 트렌드가 상대적으로 높은 것으로 확인
      
-- 정적 집합: 데이터 직접 선택
+2. 정적 집합: 데이터 직접 선택
 
 <br>
 
@@ -68,7 +68,7 @@ last_modified_at: 2023-02-15
 
 <br>
 
-#### 👀 [집합 활용 예시] 비대칭 드릴다운 I**
+#### 👀 [집합 활용 예시] 비대칭 드릴다운 I
 
 - 선택적으로 제품 대분류, 제품 중분류 드릴다운
   - 제품 대분류, 중분류 각각 드릴다운을 원하는 카테고리를 선택한 집합 생성
@@ -77,7 +77,7 @@ last_modified_at: 2023-02-15
     ![image](/assets/images/posts_img/tableau_bootcamp/day8/20230215_tableau_bootcamp_17_8_6.png){: .align-center}
   
 - 한계점: 비대칭적으로 드릴다운이 되지만, **다른 카테고리를 보고 싶을 때** 동적으로 변환이 되지 않고 **일일이 집합을 편집**해줘야 하는 문제 발생
-  - 이를 해결할 기능이 **집합 작업**
+  - 이를 해결할 기능이 <u>**집합 작업**</u>
 
 <br>
 
@@ -181,7 +181,7 @@ last_modified_at: 2023-02-15
 
 #### 👀 비대칭 드릴다운 II
 
-> 위에서 했던 연습 예시의 한계점 극복
+> 위에서 했던 예시(비대칭 드릴다운 I)의 한계점 극복
  
 - 기존에 만들었던 '제품 대분류(집합)', '제품 중분류(집합)' 에 대해 집합 동작(Set Action) 생성
   - 워크시트 > 동작 > 동작 추가 > `집합 값 변경` 
@@ -260,7 +260,7 @@ last_modified_at: 2023-02-15
 <summary>최종결과 🌈</summary>
 <div markdown="1">       
 
-![image](/assets/images/posts_img/tableau_bootcamp/day8/20230215_tableau_bootcamp_17_8_13.png){: .align-center}  
+![image](/assets/images/posts_img/tableau_bootcamp/day8/20230215_tableau_bootcamp_17_8_13.gif){: .align-center}  
 
 </div>
 </details>
@@ -278,7 +278,7 @@ last_modified_at: 2023-02-15
 
    > 🤔 매개변수 값을 변경할 때마다 제품 대분류의 색상이 자꾸 바뀐다면?
    
-   -  “대분류 매개 변수”에서 “전체”를 선택하고, 마크 “색상”에서 각각 제품 대분류 별 색상 지정
+    👉 “대분류 매개 변수”에서 “전체”를 선택하고, 마크 “색상”에서 각각 제품 대분류 별 색상 지정
 5. 레이블에 정보 추가
     1. **"제품 중분류_드릴다운", "매출"** 필드를 **레이블**에 Drag & Drop
     2. "**제품 중분류 레이블**" 생성
