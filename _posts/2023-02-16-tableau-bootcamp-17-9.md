@@ -45,7 +45,7 @@ last_modified_at: 2023-02-16
 - **불릿 차트**: 막대 차트를 참조 라인과 결합하여 실제 수치와 목표 수치를 시각적으로 알아보기 쉽게 비교
 - **상호 작용 뷰**의 경우, 스토리를 안내하고, 사용자 탐색을 권장하거나, 모두 함께 보여주기에 너무 많은 세부 사항이 있는 경우에만 사용
 
-<p>
+<br>
 
 - 한국어판: [최상의 비주얼 분석 방법: 가이드북](https://www.tableau.com/sites/default/files/media/Whitepapers/visualanalysisbestpractices_ko-kr.pdf)
 - 영어판: [Visual Analysis Best Practices : A Guidebook](https://www.tableau.com/sites/default/files/media/whitepaper_visual-analysis-guidebook_0.pdf)
